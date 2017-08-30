@@ -1,0 +1,41 @@
+[33mcommit 0089b084e2c5f1687fdd6911ee482ab84282ef2d[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 11:00:04 2017 +0300
+
+    Separate header and footer as a separate components by having different files
+
+[33mcommit 26d3feb34042a06ffba4907182d0dd085847e262[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 10:41:22 2017 +0300
+
+    General HTML and CSS style to the Bookings base page
+
+[33mcommit b7e5d360af2705455e799ea6f4e7f15c4b3d5b44[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 10:40:19 2017 +0300
+
+    General HTML and CSS style to the Bookings base page
+
+[33mcommit 0b917bcf22c33bc4aa81049c16d4063480e123b7[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 09:57:38 2017 +0300
+
+    Use Twig for templating, create url for creating bookings
+
+[33mcommit 4ed66a6b4ce1cd74600e8173d85de80045d1dff6[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 09:35:03 2017 +0300
+
+    Created front controller
+
+[33mcommit e7fdd7e345a0fba1689a64546983ab8e983ed161[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Wed Aug 30 09:03:55 2017 +0300
+
+    Adding Silex to project by using composer
+
+[33mcommit 31ac953c0e11a88729846cbe0dc5145578debd39[m
+Author: Joosep Liiv <joosep.liiv@khk.ee>
+Date:   Tue Aug 29 09:51:32 2017 +0300
+
+    Added README file
